@@ -1,4 +1,3 @@
-<a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/77806985?v=4" alt="Rdimo's Github"/></a>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ✔️・**Latest open source project [Anti-Debug](https://github.com/Rdimo/Anti-Debug)**
