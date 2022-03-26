@@ -1,9 +1,5 @@
+## Oiii, Eu sou o Comquisrer, Estou aprendendo como funciona o Github 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
 
 **Aplicações e Dados**
 
@@ -15,7 +11,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Meu discord: ⤵️
 </p>
 
 <a href="#" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/835955624004812830.png"/></a>
