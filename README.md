@@ -1,4 +1,4 @@
-<a href="https://Cheataway.com" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Rdimo's Github"/></a>
+<a href="https://Cheataway.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/77806985?v=4" alt="Rdimo's Github"/></a>
 ```js
 npm install a-life
 ```
