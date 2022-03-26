@@ -10,8 +10,9 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-</p>
+  💼 Ferramentas: 
+  </p>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
