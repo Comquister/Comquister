@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Code.</strong>
+  💼 Ferramentas: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </p>
 
 <p align="left">
