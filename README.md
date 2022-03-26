@@ -5,9 +5,9 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>Python.....</strong>
-</p>
+**Aplicações e Dados**
+
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
 
 
 **Ferramentas de Desenvolvimento**
