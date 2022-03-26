@@ -1,8 +1,6 @@
 <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/77806985?v=4" alt="Rdimo's Github"/></a>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<a href="#" target="_blank"> <img src="https://discord.com/api/guilds/867922189846970429/widget.png?style=shield" alt="shield.png"></a>
-
 ✔️・**Latest open source project [Anti-Debug](https://github.com/Rdimo/Anti-Debug)**
 
 📩・**Want to reach? Add Rdimo#6969 on [discord](https://Cheataway.com) or mail contact.rdimo@gmail.com**
