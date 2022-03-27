@@ -24,4 +24,3 @@
 </code><code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Opera_GX_Icon.svg/240px-Opera_GX_Icon.svg.png" alt="Opera GX"/></code>
 ## ¯\\_(ツ)\_/¯
 <a href="#" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="center" alt="sneke"></a>
-
