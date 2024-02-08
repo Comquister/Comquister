@@ -14,7 +14,7 @@
   💌 Meu discord: ⤵️
 </p>
 
-<a href="#" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/835955624004812830.png"/></a>
+<a href="#" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/379655752731721739.png"/></a>
 
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="Python"/>
