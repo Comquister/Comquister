@@ -10,8 +10,6 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<a href="#" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/379655752731721739.png"/></a>
-
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="Python"/></code>
 <code><img height="32" src="http://www.rw-designer.com/icon-image/20363-256x256x32.png" alt="Minecraft"/></code>
