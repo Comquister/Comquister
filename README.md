@@ -9,10 +9,6 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
- 
-<p align="left">
-  💌 Meu discord: ⤵️
-</p>
 
 <a href="#" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/379655752731721739.png"/></a>
 
